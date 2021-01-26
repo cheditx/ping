@@ -6,5 +6,5 @@ main: zChrix\ping
 
 commands:
   ping:
-    description: Visualizza il tuo ping!
+    description: Show ur ping!
 ...
