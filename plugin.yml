@@ -1,8 +1,8 @@
 name: ping
 version: 1.0
 api: 3.0.0
-author: cheditx
-main: cheditx\ping\ping
+author: zChrix
+main: zChrix\ping\ping
 
 commands:
   ping:
